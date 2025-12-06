@@ -1,5 +1,12 @@
-Sangeeta consistently demonstrated strong technical ownership and high delivery discipline throughout the year. She played a pivotal role in the green-field migration effort by performing detailed code and data validation, ensuring accuracy and stability during the transition. Her development of the Python backend for the RAG pipeline, including PDF parsing, chunking, and vector database creation, reflects both depth of skill and a strong ability to translate complex requirements into production-ready solutions.
+Valued Behaviour Commentary – Suggested for People Leader
 
-She collaborated closely with product owners and team members, actively incorporating feedback to refine and improve code quality. Her willingness to partner with others, clarify requirements, and iterate quickly contributed significantly to the success of the CreditIQ use case. Sangeeta also demonstrated initiative by designing backend logic that supports future LLM-based responses, showcasing foresight and strong problem-solving capability.
+Suryansh consistently demonstrated discipline, accountability, and a strong commitment to delivering work within agreed timelines. He showed integrity in execution by not delaying tasks even without close monitoring, and displayed a solution-oriented mindset when handling challenges during the Azure BF to Azure GF migration. He actively collaborated with the team, supported smooth development-to-deployment workflows, and upheld the principles of doing the right thing, continuously improving, and working together. His behaviour reflects maturity, ownership, and a strong alignment with the organisation’s values.
 
-In addition to her engineering contributions, she ensured that the associated database structures for CreditIQ were correctly designed and aligned with functional needs. Her behaviour reflects professionalism, accountability, and a drive for continuous improvement. Overall, she has been a reliable and impactful contributor whose work has strengthened the squad’s delivery outcomes.
+
+---
+
+Performance Commentary – Suggested for People Leader
+
+Suryansh successfully led the migration from Azure Brownfield to Azure Greenfield for the CAI platform, completing the work within scheduled timelines and with minimal friction. He ensured that dependencies, validations, and environment-specific considerations were managed proactively to avoid delays.
+
+He played a key role in enabling the technical rollout of the “Intelligent Assistant” for CAI, ensuring deployments remained smooth, controlled, and aligned with planned milestones. His focus on clarity, timely execution, and structured coordination contributed significantly to the programme’s progress. Overall, he demonstrated strong delivery ownership, cross-team collaboration, and the ability to execute complex migration tasks with consistency and professionalism.
