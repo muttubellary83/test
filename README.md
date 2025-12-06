@@ -1,8 +1,5 @@
-Consistently adhered to all governance, compliance, and risk-control expectations while delivering features across multiple squads.
-• Ensured all code changes met security, audit, and logging standards before deployment, reducing chances of post-release issues.
-• Followed mandatory documentation practices, ensuring traceability for approvals, RCAs, configuration updates, and environment changes.
-• Actively raised risks early in stand-ups and refinement sessions, enabling teams to mitigate dependencies and avoid delivery delays.
-• Supported testing teams by validating critical risk scenarios and ensuring all mandatory controls were properly implemented.
-• Maintained disciplined communication with stakeholders, ensuring transparency across releases, incidents, and production readiness.
-• Demonstrated strong ethical conduct by following organizational guidelines, avoiding shortcuts, and promoting responsible engineering behaviour.
-• Ensured changes across backend, UI, and configuration layers aligned with enterprise standards and did not introduce operational or compliance gaps.
+Sangeeta consistently demonstrated strong technical ownership and high delivery discipline throughout the year. She played a pivotal role in the green-field migration effort by performing detailed code and data validation, ensuring accuracy and stability during the transition. Her development of the Python backend for the RAG pipeline, including PDF parsing, chunking, and vector database creation, reflects both depth of skill and a strong ability to translate complex requirements into production-ready solutions.
+
+She collaborated closely with product owners and team members, actively incorporating feedback to refine and improve code quality. Her willingness to partner with others, clarify requirements, and iterate quickly contributed significantly to the success of the CreditIQ use case. Sangeeta also demonstrated initiative by designing backend logic that supports future LLM-based responses, showcasing foresight and strong problem-solving capability.
+
+In addition to her engineering contributions, she ensured that the associated database structures for CreditIQ were correctly designed and aligned with functional needs. Her behaviour reflects professionalism, accountability, and a drive for continuous improvement. Overall, she has been a reliable and impactful contributor whose work has strengthened the squad’s delivery outcomes.
